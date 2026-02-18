@@ -1,0 +1,6 @@
+doc/
+.DS_Store
+output/
+wp_data/
+scraped_markdown/
+posts_output/
