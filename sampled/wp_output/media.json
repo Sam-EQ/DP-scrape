@@ -1,0 +1,695 @@
+[
+  {
+    "id": 41863,
+    "date": "2026-02-16T20:30:45",
+    "date_gmt": "2026-02-17T01:30:45",
+    "guid": {
+      "rendered": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01.png"
+    },
+    "modified": "2026-02-16T20:30:45",
+    "modified_gmt": "2026-02-17T01:30:45",
+    "slug": "socal_logo_01",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://digitalpractice.perkinswill.com/socal/socal_logo_01/",
+    "title": {
+      "rendered": "SoCal_Logo_01"
+    },
+    "author": 5782,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-41863",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"174\" src=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-300x174.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-300x174.png 300w, https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-1030x598.png 1030w, https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-768x446.png 768w, https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-705x409.png 705w, https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01.png 1410w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1410,
+      "height": 818,
+      "file": "2026/02/SoCal_Logo_01.png",
+      "filesize": 210298,
+      "sizes": {
+        "medium": {
+          "file": "SoCal_Logo_01-300x174.png",
+          "width": 300,
+          "height": 174,
+          "filesize": 21490,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-300x174.png"
+        },
+        "large": {
+          "file": "SoCal_Logo_01-1030x598.png",
+          "width": 1030,
+          "height": 598,
+          "filesize": 132109,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-1030x598.png"
+        },
+        "thumbnail": {
+          "file": "SoCal_Logo_01-80x80.png",
+          "width": 80,
+          "height": 80,
+          "filesize": 5250,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-80x80.png"
+        },
+        "medium_large": {
+          "file": "SoCal_Logo_01-768x446.png",
+          "width": 768,
+          "height": 446,
+          "filesize": 78480,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-768x446.png"
+        },
+        "event-post-thumb": {
+          "file": "SoCal_Logo_01-630x300.png",
+          "width": 630,
+          "height": 300,
+          "filesize": 54150,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-630x300.png"
+        },
+        "event-post-thumb-box": {
+          "file": "SoCal_Logo_01-300x240.png",
+          "width": 300,
+          "height": 240,
+          "filesize": 33763,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-300x240.png"
+        },
+        "widget": {
+          "file": "SoCal_Logo_01-36x36.png",
+          "width": 36,
+          "height": 36,
+          "filesize": 1413,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-36x36.png"
+        },
+        "square": {
+          "file": "SoCal_Logo_01-180x180.png",
+          "width": 180,
+          "height": 180,
+          "filesize": 22266,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-180x180.png"
+        },
+        "featured": {
+          "file": "SoCal_Logo_01-1410x430.png",
+          "width": 1410,
+          "height": 430,
+          "filesize": 136579,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-1410x430.png"
+        },
+        "featured_large": {
+          "file": "SoCal_Logo_01-1410x630.png",
+          "width": 1410,
+          "height": 630,
+          "filesize": 186076,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-1410x630.png"
+        },
+        "portfolio": {
+          "file": "SoCal_Logo_01-495x400.png",
+          "width": 495,
+          "height": 400,
+          "filesize": 69617,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-495x400.png"
+        },
+        "portfolio_small": {
+          "file": "SoCal_Logo_01-260x185.png",
+          "width": 260,
+          "height": 185,
+          "filesize": 23368,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-260x185.png"
+        },
+        "gallery": {
+          "file": "SoCal_Logo_01-845x684.png",
+          "width": 845,
+          "height": 684,
+          "filesize": 158319,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-845x684.png"
+        },
+        "magazine": {
+          "file": "SoCal_Logo_01-710x375.png",
+          "width": 710,
+          "height": 375,
+          "filesize": 73555,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-710x375.png"
+        },
+        "masonry": {
+          "file": "SoCal_Logo_01-705x409.png",
+          "width": 705,
+          "height": 409,
+          "filesize": 68893,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-705x409.png"
+        },
+        "entry_with_sidebar": {
+          "file": "SoCal_Logo_01-845x321.png",
+          "width": 845,
+          "height": 321,
+          "filesize": 80100,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-845x321.png"
+        },
+        "entry_without_sidebar": {
+          "file": "SoCal_Logo_01-1210x423.png",
+          "width": 1210,
+          "height": 423,
+          "filesize": 132182,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01-1210x423.png"
+        },
+        "full": {
+          "file": "SoCal_Logo_01.png",
+          "width": 1410,
+          "height": 818,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 41791,
+    "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/SoCal_Logo_01.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media/41863",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/5782"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/comments?post=41863"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 41791,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/pages/41791"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41848,
+    "date": "2026-02-11T12:54:07",
+    "date_gmt": "2026-02-11T17:54:07",
+    "guid": {
+      "rendered": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332.png"
+    },
+    "modified": "2026-02-11T12:54:07",
+    "modified_gmt": "2026-02-11T17:54:07",
+    "slug": "screenshot-2026-02-11-115332",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://digitalpractice.perkinswill.com/docs/project-app/pmtk-contracts/screenshot-2026-02-11-115332/",
+    "title": {
+      "rendered": "Screenshot 2026-02-11 115332"
+    },
+    "author": 5158,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-41848",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"163\" src=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-300x163.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-300x163.png 300w, https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1030x560.png 1030w, https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-768x417.png 768w, https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1500x815.png 1500w, https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-705x383.png 705w, https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332.png 1527w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 1527,
+      "height": 830,
+      "file": "2023/03/Screenshot-2026-02-11-115332.png",
+      "filesize": 81589,
+      "sizes": {
+        "medium": {
+          "file": "Screenshot-2026-02-11-115332-300x163.png",
+          "width": 300,
+          "height": 163,
+          "filesize": 11292,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-300x163.png"
+        },
+        "large": {
+          "file": "Screenshot-2026-02-11-115332-1030x560.png",
+          "width": 1030,
+          "height": 560,
+          "filesize": 74392,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1030x560.png"
+        },
+        "thumbnail": {
+          "file": "Screenshot-2026-02-11-115332-80x80.png",
+          "width": 80,
+          "height": 80,
+          "filesize": 1651,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-80x80.png"
+        },
+        "medium_large": {
+          "file": "Screenshot-2026-02-11-115332-768x417.png",
+          "width": 768,
+          "height": 417,
+          "filesize": 47726,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-768x417.png"
+        },
+        "event-post-thumb": {
+          "file": "Screenshot-2026-02-11-115332-630x300.png",
+          "width": 630,
+          "height": 300,
+          "filesize": 31784,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-630x300.png"
+        },
+        "event-post-thumb-box": {
+          "file": "Screenshot-2026-02-11-115332-300x240.png",
+          "width": 300,
+          "height": 240,
+          "filesize": 11220,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-300x240.png"
+        },
+        "widget": {
+          "file": "Screenshot-2026-02-11-115332-36x36.png",
+          "width": 36,
+          "height": 36,
+          "filesize": 816,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-36x36.png"
+        },
+        "square": {
+          "file": "Screenshot-2026-02-11-115332-180x180.png",
+          "width": 180,
+          "height": 180,
+          "filesize": 5384,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-180x180.png"
+        },
+        "featured": {
+          "file": "Screenshot-2026-02-11-115332-1500x430.png",
+          "width": 1500,
+          "height": 430,
+          "filesize": 81316,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1500x430.png"
+        },
+        "featured_large": {
+          "file": "Screenshot-2026-02-11-115332-1500x630.png",
+          "width": 1500,
+          "height": 630,
+          "filesize": 98873,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1500x630.png"
+        },
+        "extra_large": {
+          "file": "Screenshot-2026-02-11-115332-1500x815.png",
+          "width": 1500,
+          "height": 815,
+          "filesize": 122467,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1500x815.png"
+        },
+        "portfolio": {
+          "file": "Screenshot-2026-02-11-115332-495x400.png",
+          "width": 495,
+          "height": 400,
+          "filesize": 24035,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-495x400.png"
+        },
+        "portfolio_small": {
+          "file": "Screenshot-2026-02-11-115332-260x185.png",
+          "width": 260,
+          "height": 185,
+          "filesize": 8795,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-260x185.png"
+        },
+        "gallery": {
+          "file": "Screenshot-2026-02-11-115332-845x684.png",
+          "width": 845,
+          "height": 684,
+          "filesize": 51343,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-845x684.png"
+        },
+        "magazine": {
+          "file": "Screenshot-2026-02-11-115332-710x375.png",
+          "width": 710,
+          "height": 375,
+          "filesize": 42645,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-710x375.png"
+        },
+        "masonry": {
+          "file": "Screenshot-2026-02-11-115332-705x383.png",
+          "width": 705,
+          "height": 383,
+          "filesize": 42355,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-705x383.png"
+        },
+        "entry_with_sidebar": {
+          "file": "Screenshot-2026-02-11-115332-845x321.png",
+          "width": 845,
+          "height": 321,
+          "filesize": 43385,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-845x321.png"
+        },
+        "entry_without_sidebar": {
+          "file": "Screenshot-2026-02-11-115332-1210x423.png",
+          "width": 1210,
+          "height": 423,
+          "filesize": 71819,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332-1210x423.png"
+        },
+        "full": {
+          "file": "Screenshot-2026-02-11-115332.png",
+          "width": 1527,
+          "height": 830,
+          "mime_type": "image/png",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 28970,
+    "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2023/03/Screenshot-2026-02-11-115332.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media/41848",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/5158"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/comments?post=41848"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "docs",
+          "id": 28970,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/docs/28970"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41828,
+    "date": "2026-02-03T10:44:20",
+    "date_gmt": "2026-02-03T15:44:20",
+    "guid": {
+      "rendered": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image.webp"
+    },
+    "modified": "2026-02-03T10:44:33",
+    "modified_gmt": "2026-02-03T15:44:33",
+    "slug": "image-35",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://digitalpractice.perkinswill.com/2026/02/03/aectech_nyc_2025_recap/image-35/",
+    "title": {
+      "rendered": "aectechnyc25"
+    },
+    "author": 4680,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-41828",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"150\" src=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-300x150.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-300x150.webp 300w, https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image.webp 600w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 600,
+      "height": 300,
+      "file": "2026/02/image.webp",
+      "filesize": 9956,
+      "sizes": {
+        "medium": {
+          "file": "image-300x150.webp",
+          "width": 300,
+          "height": 150,
+          "filesize": 24894,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-300x150.webp"
+        },
+        "thumbnail": {
+          "file": "image-80x80.webp",
+          "width": 80,
+          "height": 80,
+          "filesize": 5182,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-80x80.webp"
+        },
+        "event-post-thumb-box": {
+          "file": "image-300x240.webp",
+          "width": 300,
+          "height": 240,
+          "filesize": 32740,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-300x240.webp"
+        },
+        "widget": {
+          "file": "image-36x36.webp",
+          "width": 36,
+          "height": 36,
+          "filesize": 1520,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-36x36.webp"
+        },
+        "square": {
+          "file": "image-180x180.webp",
+          "width": 180,
+          "height": 180,
+          "filesize": 17022,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-180x180.webp"
+        },
+        "portfolio": {
+          "file": "image-495x300.webp",
+          "width": 495,
+          "height": 300,
+          "filesize": 56820,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-495x300.webp"
+        },
+        "portfolio_small": {
+          "file": "image-260x185.webp",
+          "width": 260,
+          "height": 185,
+          "filesize": 25714,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image-260x185.webp"
+        },
+        "full": {
+          "file": "image.webp",
+          "width": 600,
+          "height": 300,
+          "mime_type": "image/webp",
+          "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 41827,
+    "source_url": "https://digitalpractice.perkinswill.com/wp-content/uploads/2026/02/image.webp",
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media/41828",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/4680"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/comments?post=41828"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "post",
+          "id": 41827,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts/41827"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

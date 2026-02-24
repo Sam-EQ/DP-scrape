@@ -1,0 +1,143 @@
+[
+  {
+    "id": 228,
+    "count": 4,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/tag/aboutspeed/",
+    "name": "#AboutSpeed",
+    "slug": "aboutspeed",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags/228",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?tags=228"
+        },
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/portfolio?tags=228"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "count": 7,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/tag/speed_results/",
+    "name": "#SPEED_Results",
+    "slug": "speed_results",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags/229",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?tags=229"
+        },
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/portfolio?tags=229"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "count": 0,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/tag/2021/",
+    "name": "2021",
+    "slug": "2021",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags/281",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?tags=281"
+        },
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/portfolio?tags=281"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

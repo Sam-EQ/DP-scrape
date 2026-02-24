@@ -1,0 +1,155 @@
+[
+  {
+    "id": 223,
+    "count": 1,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/category/performance-design/speed/speed-about/",
+    "name": "About SPEED",
+    "slug": "speed-about",
+    "taxonomy": "category",
+    "parent": 222,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/223",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/222"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?categories=223"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 253,
+    "count": 0,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/category/nelson-nygaard/sectors/active-transportation/",
+    "name": "Active Transportation",
+    "slug": "active-transportation",
+    "taxonomy": "category",
+    "parent": 249,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/253",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/249"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?categories=253"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 316,
+    "count": 0,
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/category/vancouver-studio/project-management/additional-resources/",
+    "name": "Additional Resources",
+    "slug": "additional-resources",
+    "taxonomy": "category",
+    "parent": 311,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/316",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/categories/311"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/posts?categories=316"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

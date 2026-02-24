@@ -1,0 +1,32 @@
+{
+  "41006": {
+    "title": "Storyboard",
+    "url": "https://digitalpractice.perkinswill.com/docs/storyboard/",
+    "slug": "storyboard",
+    "content": "",
+    "createdAt": "2025-10-20T18:34:10",
+    "modifiedAt": "2025-10-20T18:34:10",
+    "status": "publish",
+    "type": "docs"
+  },
+  "32876": {
+    "title": "Potential Profit",
+    "url": "https://digitalpractice.perkinswill.com/docs/project-app/pmtk-budget/budget-line-by-line/potential-profit/",
+    "slug": "potential-profit",
+    "content": "Potential shows profit and multiplier if contingency is not used. Target Multiplier is the factor used to dial up/down your labor Target Labor is a calculation of NSR divided by Target Multiplier calculated Plan NSR is calculated as Potential NSR minus Contingency. calculated Plan NSR is calculated as Potential NSR minus Contingency. Booked NSR If you have already added Consultants to the Team they will be listed here. Otherwise you will be prompted to Add Consultant. Only the Total will be displayed in the main budget view. Contingency Contingency is a percentage of your Potential NSR held in reserve to cover project overruns and salary adjustments. The firm recommends 10% at the beginning of a project and 5%  at start of construction. Use 10% Default button to autofill. Plan NSR Plan NSR is the number used to develop the Labor plan. Calculation Plan NSR = Potential NSR – Contingency",
+    "createdAt": "2023-06-09T14:55:10",
+    "modifiedAt": "2023-06-09T14:57:59",
+    "status": "publish",
+    "type": "docs"
+  },
+  "32860": {
+    "title": "Target Multiplier",
+    "url": "https://digitalpractice.perkinswill.com/docs/project-app/pmtk-budget/budget-line-by-line/target-multiplier/",
+    "slug": "target-multiplier",
+    "content": "Target multiplier is a factor used to calculate Target Labor. Target Multiplier is the factor used to dial up/down your labor Target Labor is a calculation of NSR divided by Target Multiplier calculated Plan NSR is calculated as Potential NSR minus Contingency. calculated Plan NSR is calculated as Potential NSR minus Contingency. Booked NSR If you have already added Consultants to the Team they will be listed here. Otherwise you will be prompted to Add Consultant. Only the Total will be displayed in the main budget view. Contingency Contingency is a percentage of your Potential NSR held in reserve to cover project overruns and salary adjustments. The firm recommends 10% at the beginning of a project and 5%  at start of construction. Use 10% Default button to autofill. Plan NSR Plan NSR is the number used to develop the Labor plan. Calculation Plan NSR = Potential NSR – Contingency",
+    "createdAt": "2023-06-09T11:45:47",
+    "modifiedAt": "2023-06-09T14:53:33",
+    "status": "publish",
+    "type": "docs"
+  }
+}

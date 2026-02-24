@@ -1,0 +1,95 @@
+[
+  {
+    "id": 3997,
+    "name": "Adam.Burnham@perkinswill.com",
+    "url": "",
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/author/adam-burnhamperkinswill-com/",
+    "slug": "adam-burnhamperkinswill-com",
+    "avatar_urls": {
+      "24": "https://digitalpractice.perkinswill.com/wp-content/uploads/2024/04/Adam-Burnham-1-36x36.jpg",
+      "48": "https://digitalpractice.perkinswill.com/wp-content/uploads/2024/04/Adam-Burnham-1-80x80.jpg",
+      "96": "https://digitalpractice.perkinswill.com/wp-content/uploads/2024/04/Adam-Burnham-1-180x180.jpg"
+    },
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/3997",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "adam.hamilton@perkinswill.com",
+    "url": "",
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/author/adam-hamiltonperkinswill-com/",
+    "slug": "adam-hamiltonperkinswill-com",
+    "avatar_urls": {
+      "24": "https://digitalpractice.perkinswill.com/wp-content/uploads/2018/12/adam-36x36.jpg",
+      "48": "https://digitalpractice.perkinswill.com/wp-content/uploads/2018/12/adam-80x80.jpg",
+      "96": "https://digitalpractice.perkinswill.com/wp-content/uploads/2018/12/adam-120x120.jpg"
+    },
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users"
+        }
+      ]
+    }
+  },
+  {
+    "id": 833,
+    "name": "albert.anderson@perkinswill.com",
+    "url": "",
+    "description": "",
+    "link": "https://digitalpractice.perkinswill.com/author/albert-andersonperkinswill-com/",
+    "slug": "albert-andersonperkinswill-com",
+    "avatar_urls": {
+      "24": "https://digitalpractice.perkinswill.com/wp-content/uploads/2020/02/AlAnderson-36x36.jpg",
+      "48": "https://digitalpractice.perkinswill.com/wp-content/uploads/2020/02/AlAnderson-80x80.jpg",
+      "96": "https://digitalpractice.perkinswill.com/wp-content/uploads/2020/02/AlAnderson-180x180.jpg"
+    },
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users/833",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://digitalpractice.perkinswill.com/wp-json/wp/v2/users"
+        }
+      ]
+    }
+  }
+]
